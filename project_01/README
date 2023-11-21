@@ -1,0 +1,3 @@
+""" The code in this folder uses threading to implement a scoring system with a score tracker, a note that plays on each made basket, and a LCD display that acts as a timer""""
+""" The build instructions are outlined in the Hackster"""
+""" To turn on the device, boot cloud 9 and allow the system to run. The LCD display will prompt the user to press the button to play. From here, the user will shoot the basketballs for the 20 second timer. The game is over after 20 seconds, and the scoreboard and LCD display will clear""" 
